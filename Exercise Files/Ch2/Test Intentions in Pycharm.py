@@ -12,9 +12,9 @@ rd.randint(0,1)
 
 import numpy as np
 
-beta = np.random.randint(10,100,1000)
+alfa = np.random.randint(10,100,1000)
 
-print(beta)
+print(alfa)
 
 def sticazzi(arg1,arg2):
     """ this is a test help for function sticazzi \n
